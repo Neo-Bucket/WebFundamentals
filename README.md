@@ -1,7 +1,7 @@
 # copyright notice
 # Adding a line for rebasing example
 # One more change
-# Rebase Conflicting Line 1 - Dummy Data Conflict
+# Rebase Conflicting Line 1 - Data Server
 
 # Web Fundamentals on DevSite
 
