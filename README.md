@@ -1,6 +1,7 @@
-#copyright notice
-#Adding a line for rebasing example
-#One more change
+# copyright notice
+# Adding a line for rebasing example
+# One more change
+# Rebase Conflicting Line 1
 
 # Web Fundamentals on DevSite
 
@@ -9,7 +10,7 @@
 
 Welcome to the new **WebFundamentals**! An effort to showcase best practices and tools for modern Web Development.
 
-
+# Rebase Conflicting Line 2
 ### What's changed?
 
 * We're now using the [DevSite](https://developers.google.com/) infrastructure
