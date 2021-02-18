@@ -78,3 +78,11 @@ if there are any errors! To run:
 ```
 npm test
 ```
+
+#Starter Web Project
+
+##Introduction
+
+## Purpose
+
+## How To Contribute
