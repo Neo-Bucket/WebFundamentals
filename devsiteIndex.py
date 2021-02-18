@@ -15,7 +15,7 @@ def getPage(requestPath, lang):
     os.path.join(SOURCE_PATH, lang, requestPath, 'index.md'),
     os.path.join(SOURCE_PATH, 'en', requestPath, 'index.md'),
     os.path.join(SOURCE_PATH, 'lang', requestPath, 'index.html'),
-    os.path.join(SOURCE_PATH, 'fr', requestPath, 'index.html')
+    os.path.join(SOURCE_PATH, 'en', requestPath, 'index.html')
   ]
   for fileLocation in fileLocations:
     if os.path.isfile(fileLocation):
