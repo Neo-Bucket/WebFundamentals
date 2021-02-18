@@ -79,9 +79,9 @@ if there are any errors! To run:
 npm test
 ```
 
-#Starter Web Project
+# Starter Web Project
 
-##Introduction
+## Introduction
 
 ## Purpose
 
