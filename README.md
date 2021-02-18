@@ -1,3 +1,5 @@
+#copyright notice
+
 # Web Fundamentals on DevSite
 
 [![Build Status](https://travis-ci.org/google/WebFundamentals.svg?branch=main)](https://travis-ci.org/google/WebFundamentals)
