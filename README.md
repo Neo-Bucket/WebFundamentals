@@ -1,7 +1,7 @@
 # copyright notice
 # Adding a line for rebasing example
 # One more change
-# Rebase Conflicting Line 1
+# Rebase Conflicting Line 1 - Main Branch Data
 
 # Web Fundamentals on DevSite
 
