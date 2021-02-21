@@ -4,6 +4,8 @@
 # Rebase Conflicting Line 1 - Data Server
 # Remote Server Changes
 
+# All right reserved
+
 # Web Fundamentals on DevSite
 
 [![Build Status](https://travis-ci.org/google/WebFundamentals.svg?branch=main)](https://travis-ci.org/google/WebFundamentals)
