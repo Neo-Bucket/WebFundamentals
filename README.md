@@ -8,6 +8,7 @@
 # Do an urgent fix after git stash
 
 # Web Fundamentals on DevSite
+# Addding content for Stash examples
 
 [![Build Status](https://travis-ci.org/google/WebFundamentals.svg?branch=main)](https://travis-ci.org/google/WebFundamentals)
 [![License](https://img.shields.io/github/license/google/WebFundamentals)](https://github.com/google/WebFundamentals/blob/main/LICENSE)

@@ -7,6 +7,7 @@ import devsiteParseYAML
 
 SOURCE_PATH = os.path.join(os.path.dirname(__file__), 'src/content')
 
+# stash into branch
 # copyright notice
 def getPage(requestPath, lang):
   fileLocations = [
